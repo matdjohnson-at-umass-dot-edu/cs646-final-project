@@ -1,4 +1,4 @@
-Reults of the baseline cosine similairty computation:
+Results of the baseline cosine similairty computation:
 
 recall@10: 0.4824175824175824
 
