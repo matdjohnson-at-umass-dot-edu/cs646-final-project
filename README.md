@@ -14,7 +14,7 @@ The preprocessing notebooks perform the following functions:
 
 The baseline evaluation notebook is "Cosine Similarity IR". The notebook computes the cosine similarity of queries with all embedded documents. All embedded documents are thosoe embedded in preprocessing 1, which is a subset of documents from the BeIR MS Marco dataset (approximately 0.125 of the dataset).
 
-The notebooks for training and evaluating a binary classification model all include the word "Model". These notebooks will be updated through the end of finals week. The results of these notebooks are contained in RESULTS.md.
+The notebooks for training and evaluating a binary classification model all include the word "Model". These notebooks will be updated through the end of finals week. The results of these notebooks are contained in [RESULTS.md](RESULTS.md).
 
 The Google Drive for the project notebooks, the dataset data (including intermediate data stages), and the model parameters, is at the following link:
 
