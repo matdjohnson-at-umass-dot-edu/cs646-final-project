@@ -1,6 +1,6 @@
 # cs646-final-project
 
-A repository containing the notebooks used to perform the computations associated with the final project for UMass CS646 by Matthew Johnson.
+A repository containing the notebooks used to perform the computations associated with the UMass CS646 final project by Matthew Johnson.
 
 The notebooks include preprocesing notebooks, a baseline evaluation notebook, and preliminarily notebooks for training and evaluating a binary classification model.
 
