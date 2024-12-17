@@ -15,3 +15,13 @@ recall@10: 0.0
 recall@100: 0.0006211180124223603
 
 recall@1000: 0.004061156235069279
+
+*(Continued effort - posted on 2024-12-17)*
+
+Results of modified attention model:
+
+recall@10: 0.002914476827520306
+
+recall@100: 0.03487816531294792
+
+recall@1000: 0.25303392259914
